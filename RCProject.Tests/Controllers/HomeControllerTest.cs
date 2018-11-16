@@ -16,6 +16,7 @@ namespace RCProject.Tests.Controllers
         public void Index()
         {
             // Arrange
+            
             HomeController controller = new HomeController();
 
             // Act
