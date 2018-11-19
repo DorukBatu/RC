@@ -32,7 +32,7 @@ namespace RCProject.Tests.Controllers
             ViewResult result = controller.About() as ViewResult;
 
             // Assert
-            Assert.Equal("Your application description page.", result.ViewBag.Message);
+            Assert.NotNull(result);
         }
 
         [Fact]
