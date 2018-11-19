@@ -1,13 +1,14 @@
 ﻿using System.Web.Mvc;
-using NUnit.Framework;
+//using NUnit.Framework;
 using RCProject.Controllers;
+using Xunit;
 
 namespace RCProject.Tests.Controllers
 {
-    [TestFixture]
+   
     public class HomeControllerTest
     {
-        [Test]
+        [Fact]
         public void Index()
         {
             // Arrange
@@ -18,10 +19,10 @@ namespace RCProject.Tests.Controllers
             ViewResult result = controller.Index() as ViewResult;
 
             // Assert
-            Assert.IsNotNull(result);
+            Assert.NotNull(result);
         }
 
-        [Test]
+        [Fact]
         public void About()
         {
             // Arrange
@@ -31,10 +32,10 @@ namespace RCProject.Tests.Controllers
             ViewResult result = controller.About() as ViewResult;
 
             // Assert
-            Assert.AreEqual("Your application description page.", result.ViewBag.Message);
+            Assert.Equal("Your application description page.", result.ViewBag.Message);
         }
 
-        [Test]
+        [Fact]
         public void Contact()
         {
             // Arrange
@@ -44,7 +45,7 @@ namespace RCProject.Tests.Controllers
             ViewResult result = controller.Contact() as ViewResult;
 
             // Assert
-            Assert.IsNotNull(result);
+            Assert.NotNull(result);
         }
     }
 }

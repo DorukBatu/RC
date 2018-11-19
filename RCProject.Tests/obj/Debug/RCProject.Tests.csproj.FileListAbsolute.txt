@@ -84,3 +84,14 @@ C:\Repo\RC\RCProject.Tests\obj\Debug\RCProject.Tests.csproj.CoreCompileInputs.ca
 C:\Repo\RC\RCProject.Tests\obj\Debug\RCProject.Tests.csproj.CopyComplete
 C:\Repo\RC\RCProject.Tests\obj\Debug\RCProject.Tests.dll
 C:\Repo\RC\RCProject.Tests\obj\Debug\RCProject.Tests.pdb
+C:\Repo\RC\RCProject.Tests\bin\Debug\xunit.abstractions.dll
+C:\Repo\RC\RCProject.Tests\bin\Debug\xunit.assert.dll
+C:\Repo\RC\RCProject.Tests\bin\Debug\xunit.core.dll
+C:\Repo\RC\RCProject.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Repo\RC\RCProject.Tests\bin\Debug\WebGrease.dll
+C:\Repo\RC\RCProject.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Repo\RC\RCProject.Tests\bin\Debug\xunit.abstractions.xml
+C:\Repo\RC\RCProject.Tests\bin\Debug\xunit.assert.xml
+C:\Repo\RC\RCProject.Tests\bin\Debug\xunit.core.xml
+C:\Repo\RC\RCProject.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Repo\RC\RCProject.Tests\bin\Debug\Antlr3.Runtime.pdb

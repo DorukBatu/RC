@@ -181,7 +181,6 @@ C:\Repo\RC\RCProject\bin\Microsoft.AI.DependencyCollector.xml
 C:\Repo\RC\RCProject\bin\Microsoft.AI.WindowsServer.xml
 C:\Repo\RC\RCProject\bin\Microsoft.AI.Web.xml
 C:\Repo\RC\RCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Repo\RC\RCProject\obj\Debug\RCProject.csprojAssemblyReference.cache
 C:\Repo\RC\RCProject\obj\Debug\RCProject.csproj.CoreCompileInputs.cache
 C:\Repo\RC\RCProject\obj\Debug\RCProject.csproj.CopyComplete
 C:\Repo\RC\RCProject\obj\Debug\RCProject.dll
