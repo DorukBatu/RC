@@ -186,3 +186,11 @@ C:\Repo\RC\RCProject\obj\Debug\RCProject.csproj.CoreCompileInputs.cache
 C:\Repo\RC\RCProject\obj\Debug\RCProject.csproj.CopyComplete
 C:\Repo\RC\RCProject\obj\Debug\RCProject.dll
 C:\Repo\RC\RCProject\obj\Debug\RCProject.pdb
+C:\Repo\RC\RCProject\bin\xunit.abstractions.dll
+C:\Repo\RC\RCProject\bin\xunit.assert.dll
+C:\Repo\RC\RCProject\bin\xunit.core.dll
+C:\Repo\RC\RCProject\bin\xunit.execution.desktop.dll
+C:\Repo\RC\RCProject\bin\xunit.abstractions.xml
+C:\Repo\RC\RCProject\bin\xunit.assert.xml
+C:\Repo\RC\RCProject\bin\xunit.core.xml
+C:\Repo\RC\RCProject\bin\xunit.execution.desktop.xml
