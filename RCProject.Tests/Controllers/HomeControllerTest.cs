@@ -32,6 +32,7 @@ namespace RCProject.Tests.Controllers
             ViewResult result = controller.About() as ViewResult;
 
             // Assert
+            //commentaddded
             Assert.NotNull(result);
         }
 
