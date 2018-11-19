@@ -49,7 +49,7 @@ namespace RCProject.Tests.Controllers
             ViewResult result = controller.Contact() as ViewResult;
 
             // Assert
-            Assert.IsNull(result);
+            Assert.IsNotNull(result);
         }
     }
 }
