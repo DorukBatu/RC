@@ -193,3 +193,4 @@ C:\Repo\RC\RCProject\bin\xunit.abstractions.xml
 C:\Repo\RC\RCProject\bin\xunit.assert.xml
 C:\Repo\RC\RCProject\bin\xunit.core.xml
 C:\Repo\RC\RCProject\bin\xunit.execution.desktop.xml
+C:\Repo\RC\RCProject\obj\Debug\RCProject.csprojAssemblyReference.cache
